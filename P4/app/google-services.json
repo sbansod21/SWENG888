@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "718949662101",
+    "project_id": "practice4-sushb",
+    "storage_bucket": "practice4-sushb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718949662101:android:e832feaf320f12d7d10a9c",
+        "android_client_info": {
+          "package_name": "edu.psu.sweng888.p4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs7Mq9FsRoxIT8cpf-aFADv7k9l6Dm3sM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
